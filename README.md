@@ -1,6 +1,7 @@
 👋 Hi, I'm Samuel Afeni
 
 💼 Microsoft 365 Engineer | Modern Workplace | Intune | Entra ID | Security & Compliance
+
 📍  England, United Kingdom
 
 🚀 About Me
