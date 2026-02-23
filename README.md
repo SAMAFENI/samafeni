@@ -1,7 +1,7 @@
 👋 Hi, I'm Samuel Afeni
 
 💼 Microsoft 365 Engineer | Modern Workplace | Intune | Entra ID | Security & Compliance
-📍 Carlisle, United Kingdom
+📍  England, United Kingdom
 
 🚀 About Me
 
@@ -39,13 +39,7 @@ Expanding cloud engineering skills
 
 📂 Projects
 
-Here are a few things I’m working on:
 
-Flutter learning projects
-
-Shell scripting practice
-
-Small technical experiments and learning repos
 
 🤝 Let's Connect
 
