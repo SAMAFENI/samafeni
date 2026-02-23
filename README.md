@@ -1,16 +1,52 @@
-## Hi there 👋
+👋 Hi, I'm Samuel Afeni
 
-<!--
-**SAMAFENI/samafeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Microsoft 365 Engineer | Modern Workplace | Intune | Entra ID | Security & Compliance
+📍 Carlisle, United Kingdom
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Microsoft 365 Engineer focused on building secure, modern workplace environments. My work covers endpoint management, identity, collaboration tools, and technical support across Microsoft cloud technologies.
+
+I enjoy simplifying IT operations, improving user experience, and using automation or scripting to make support more efficient.
+
+🧰 Technologies & Tools
+
+Microsoft 365
+
+Intune / Endpoint Manager
+
+Entra ID (Azure AD)
+
+Exchange Online
+
+SharePoint & Teams
+
+Security & Compliance
+
+PowerShell
+
+Bash 
+
+📌 Current Focus
+
+Strengthening Modern Workplace security
+
+Endpoint management best practices
+
+Automation for IT support tasks
+
+Expanding cloud engineering skills
+
+📂 Projects
+
+Here are a few things I’m working on:
+
+Flutter learning projects
+
+Shell scripting practice
+
+Small technical experiments and learning repos
+
+🤝 Let's Connect
+
+LinkedIn: https://www.linkedin.com/in/samafeni/
